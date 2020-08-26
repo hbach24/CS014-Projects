@@ -6,7 +6,6 @@
 using namespace std;
 
 class PlaylistNode {
-  //referenced from Pendu
 public:
 	PlaylistNode();
 	PlaylistNode(string, string, string, int, PlaylistNode* nextLoc = 0);
