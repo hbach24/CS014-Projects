@@ -4,7 +4,6 @@
 
 using namespace std;
 
-//Collabed with Jeffrey Wang, Connie Pak
 
 void outputPlaylist(string playlistTitle, PlaylistNode*& head, PlaylistNode*& tail) {
     if (head == nullptr) {
