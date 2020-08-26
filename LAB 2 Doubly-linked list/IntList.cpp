@@ -2,7 +2,7 @@
 #include <iostream>
 
 using namespace std;
-//Collabed with Jeffrey Wang
+
 //Initializes an empty list with dummy head and dummy tail.
 IntList::IntList() {
 	dummyHead = new IntNode(0);
