@@ -1,6 +1,6 @@
 #include <iostream>
 #include "IntList.h"
-int main() { //referenced from Professor LePendu (Slack)
+int main() { 
 	IntList list;
 	cout << "empty: " << list << endl;
 	list.push_front(3);
