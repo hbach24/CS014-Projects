@@ -1,5 +1,6 @@
 #include <iostream>
 #include "IntList.h"
+
 int main() { 
 	IntList list;
 	cout << "empty: " << list << endl;
@@ -45,5 +46,3 @@ int main() {
 	list.pop_back();
 	return 0;
 }
-
-//3, 1, 
