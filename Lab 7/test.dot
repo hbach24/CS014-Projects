@@ -1,0 +1,4 @@
+digraph G {
+book -> apple;
+book -> cookie;
+}
