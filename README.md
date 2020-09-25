@@ -3,8 +3,4 @@
 
 
 
- | Button Name  | Description    | Submitted by  |               |        
- |--------------|----------------|---------------|---------------|
- | git status   | git status     |[Hannah Bach](https://github.com/hbach24). | x              |
- | git diff     | git diff       | git diff      |               |
-
+ 
