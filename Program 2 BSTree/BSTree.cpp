@@ -2,7 +2,6 @@
 #include<iostream>
 
 using namespace std;
-//collabed with Jeffrey Wang
 
 BSTree::BSTree() {
 	root = nullptr; 
